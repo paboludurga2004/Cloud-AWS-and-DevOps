@@ -2,4 +2,4 @@
 
 My Cloud Journey
 
-Cloud basics /--> Networking /--> OS /--> Linux 
+Cloud basics /--> Networking /--> OS /--> Linux-6 days
