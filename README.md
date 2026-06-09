@@ -2,4 +2,5 @@
 
 My Cloud Journey
 
-Cloud basics /--> Networking-21 days /--> OS-21 days /--> Linux-6 days /--> Git and Github-8 days
+Cloud basics /--> Networking-15 days /--> OS-15 days /--> Linux-6 days /--> Git and Github-8 days /--> Shell scripting-4 days
+                                                                                        
